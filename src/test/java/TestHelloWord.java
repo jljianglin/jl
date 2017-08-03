@@ -7,6 +7,6 @@ public class TestHelloWord {
 
     @Test
     public void say() {
-        System.out.println("nihao");
+        System.out.println("dajiahao");
     }
 }
